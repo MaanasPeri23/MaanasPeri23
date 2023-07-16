@@ -1,7 +1,5 @@
 ### Hello! 👋
 
-<!--
-**MaanasPeri23/MaanasPeri23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 My name is Maanas Peri, and here are the ABCs of me:
 - I'm a Master's Student at Cornell Tech in NYC 🌃
 - I'm deeply interested in IOS & Web Development, particularly applications in fintech, health & fitness, and productivity industries. 
