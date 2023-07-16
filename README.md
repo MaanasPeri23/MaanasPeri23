@@ -1,4 +1,4 @@
-### Hello! 👋
+### Hello! 👋🏽
 
 My name is Maanas Peri, and here are the ABCs of me:
 - I'm a Master's Student at Cornell Tech in NYC 🌃
