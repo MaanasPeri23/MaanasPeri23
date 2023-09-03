@@ -1,6 +1,6 @@
 ### Hello! 👋🏽
 
-My name is Maanas Peri, and here are the ABCs of me:
+My name is Maanas Peri, and here's a bit about me:
 - I'm a Master's Student at Cornell Tech in NYC 🌃
 - I have a profound passion for IOS development, as well as the practical uses of Machine Learning. My specific interests lie in applying ML to sectors like fintech, health and fitness, and productivity industries 🚴🏾‍♂️
 - Notion fanatic 🎧
