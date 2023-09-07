@@ -2,7 +2,7 @@
 
 My name is Maanas Peri, and here's a bit about me:
 - I'm a Master's Student at Cornell Tech in NYC 🌃
-- I have a profound passion for IOS development, as well as applying ML to sectors in the fintech, health and fitness, and productivity industries 🚴🏾‍♂️ I'm particularly interested in using product design to guide what I build. Check out my personal website to know my development process!
+- I have a profound passion for IOS development, as well as applying ML to sectors in the fintech, health and fitness, and productivity industries 🚴🏾‍♂️ I'm particularly interested in using product design to guide what I build.
 - I'm a certified Notion fanatic 🎧 
 - Go Hawks! 🏈 
 
