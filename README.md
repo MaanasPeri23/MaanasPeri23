@@ -7,4 +7,4 @@ My name is Maanas Peri, and here's a bit about me:
 - Certified Notion fanatic 🎧 
 - Go Hawks! 🏈 
 
-I've pinned a few projects that are mostly relevant to my current interests, but there are more exciting ones in the works! I'm always looking for high-impact projects, so if you'd like to get in touch, feel free to reach out to me through my socials.
+I've pinned a few projects that are mostly relevant to my current interests, but there are more exciting ones in the works! I'm always looking for high-impact projects, so if you'd like to get in touch with me, hit up my socials!
