@@ -2,8 +2,8 @@
 
 My name is Maanas Peri, and here's a bit about me:
 - Master's Student at Cornell Tech in NYC 🌃
-- I have a profound passion for building Data and Machine Learning Engineering applications in the fashion-tech, fintech, health and fitness, and productivity sectors. I'm particularly interested in using product design and startup experiences to guide what I build. 🛠️
-- I'm currently learning more about Computer Vision techniques, Generative Models, Big Data concepts through Apache Spark and Kafka, and building robust ML pipelines in Azure. 🧑🏽‍💻
+- I have a profound passion for building Machine Learning Engineering applications in the fashion-tech, productivity, fintech, and health & fitness sectors. I'm particularly interested in using product design and startup experiences to guide what I build. 🛠️
+- My current interests revolve around Computer Vision techniques, fine-tuning LLMs, working with Big Data concepts (through Apache Spark and Kafka), and building robust ML pipelines in Azure. 🧑🏽‍💻
 - Certified Notion fanatic 🎧 
 - Go Hawks! 🏈 
 
