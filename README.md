@@ -1,10 +1,10 @@
 ### Hello! 👋🏽
 
 My name is Maanas Peri, and here's a bit about me:
-- Master's Student at Cornell Tech in NYC 🌃
-- I have a profound passion for building Machine Learning Engineering applications in the fashion-tech, productivity, fintech, and health & fitness sectors. I'm particularly interested in using product design and startup experiences to guide what I build. 🛠️
-- My current interests revolve around Computer Vision techniques, building LLM-powered Full-Stack applications, working with Big Data concepts (through Apache Spark and Kafka), and building robust ML pipelines in Azure. 🧑🏽‍💻
-- Certified Notion fanatic 🎧 
-- Go Hawks! 🏈 
+- I'm currently a Software Engineer at Uber.
+- I graduated with a Master's at Cornell Tech in NYC, did my undergrad in CS at UMass Amherst.
+- I'm a self-proclaimed chef dabbling in Thai, Italian, and Indian cuisines.
+- My current interests revolve around working Distributed Systems such as Apache Cassandra, and building LLM-powered Full-Stack applications. I'm particularly interested in using my product intuition and startup experiences to guide what I build.
+- Lastly, Everyone who knows me can attest to my obsession with Notion. I hope you learned a bit about me, and Go Hawks! 🏈 
 
 I've pinned a few projects that are mostly relevant to my current interests, but there are 2 more exciting ones I'm going to put up here! I'm always looking for high-impact projects, so if you'd like to get in touch with me, hit up my socials!
